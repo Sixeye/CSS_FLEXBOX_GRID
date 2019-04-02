@@ -1,0 +1,27 @@
+body {
+    font-family: 'Karma',serif;
+}
+
+#product-overview {
+     background: rgb(201, 196, 196);
+     width: 30em;
+     padding: 20px;
+     border: 5px black solid;
+     margin: 20px;
+ }
+
+ #product-overview h1 {
+     color: rgb(94, 81, 81);
+     font-size: 3em;
+ }
+
+ #plans{
+     background: rgb(231, 197, 202);
+     color: rgb(39, 184, 59);
+     width: 30em;
+ }
+
+ .section-title{
+     color: #2ddf5c;
+     font-family: 'Oleo Script', cursive;
+ }
